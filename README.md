@@ -24,6 +24,67 @@ Experience MotionNote right now - no sign-up required for the demo:
 
 ---
 
+## 📸 Screenshots & Videos
+
+### Live Demo
+
+Experience the full power of MotionNote with our interactive demo:
+
+![MotionNote Demo Interface](./motionnotedemo.png)
+
+*Try the live demo at [motionnote.com](https://motionnote.com) - No sign-up required!*
+
+### Product Showcase Video
+
+See MotionNote in action - watch how AI transforms the way you work with words:
+
+<div align="center">
+
+[![MotionNote Showcase Video](https://img.youtube.com/vi/hDaVSNGQgOA/maxresdefault.jpg)](https://www.youtube.com/watch?v=hDaVSNGQgOA)
+
+**"The First and Strongest AI Word Processor in Action"**
+
+[▶️ Watch on YouTube](https://www.youtube.com/watch?v=hDaVSNGQgOA)
+
+</div>
+
+### Key Features Showcase
+
+#### 🤖 AI Researcher
+Chat with your documents and get intelligent insights in real-time.
+
+#### ✍️ AI Annotations
+Get AI-powered suggestions and annotations to improve your content.
+
+#### 📚 Knowledge Base
+Seamlessly manage and reference files for enhanced productivity.
+
+#### 📝 Rich Text Editor
+Professional word processing with full WYSIWYG editing capabilities.
+
+### Educational Videos
+
+MotionNote generates comprehensive educational content including:
+
+- **Science Tutorials** - Learn complex scientific concepts with AI-generated videos
+- **History Lessons** - Explore historical events through engaging video content
+- **Educational Content** - Access a library of AI-generated educational videos
+
+*Explore educational videos in the MotionNote application.*
+
+### Landing Page Sections
+
+Visit our [landing page](https://motionnote.com) to see:
+
+- **Hero Section** - Beautiful interface showcasing MotionNote's capabilities
+- **Feature Cards** - Detailed breakdown of all features
+- **Platform Abilities** - See what MotionNote can do for you
+- **Human-like AI** - Experience AI that writes naturally
+- **Multi-language Support** - Use MotionNote in your preferred language
+- **Pricing Plans** - Choose the plan that fits your needs
+
+---
+
 ## ✨ Key Features
 
 ### 🤖 AI-Powered Features
