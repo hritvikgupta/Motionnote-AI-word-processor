@@ -26,14 +26,6 @@ Experience MotionNote right now - no sign-up required for the demo:
 
 ## 📸 Screenshots & Videos
 
-### Live Demo
-
-Experience the full power of MotionNote with our interactive demo:
-
-![MotionNote Demo Interface](./motionnotedemo.png)
-
-*Try the live demo at [motionnote.com](https://motionnote.com) - No sign-up required!*
-
 ### Product Showcase Video
 
 See MotionNote in action - watch how AI transforms the way you work with words:
@@ -48,19 +40,78 @@ See MotionNote in action - watch how AI transforms the way you work with words:
 
 </div>
 
-### Key Features Showcase
+### Powerful Features
 
-#### 🤖 AI Researcher
-Chat with your documents and get intelligent insights in real-time.
+#### Share Your Story
+Publish your documents to the web and share your work with the world. Create beautiful, shareable pages.
 
-#### ✍️ AI Annotations
-Get AI-powered suggestions and annotations to improve your content.
+![Share Demo](./images/sharedemo.png)
 
-#### 📚 Knowledge Base
-Seamlessly manage and reference files for enhanced productivity.
+#### AI Model
+Advanced AI capabilities powered by state-of-the-art models for intelligent research and writing assistance.
 
-#### 📝 Rich Text Editor
-Professional word processing with full WYSIWYG editing capabilities.
+![AI Model](./images/aimodel.png)
+
+#### Smart Citations
+Automatic citation generation with support for over 2.6k citation styles. Cite with confidence.
+
+![Smart Citations](./images/cite.png)
+
+#### AI Copilot
+Your intelligent writing companion that helps you overcome writer's block and enhance your research.
+
+![AI Copilot](./images/copilot.png)
+
+### Platform Abilities
+
+MotionNote can handle complex tasks with ease:
+
+#### Create Charts
+Select the text you want to convert to a chart, graph, or diagram.
+
+#### Create Images
+Select the text to create an image right inside your notes.
+
+#### Create Videos
+Instantly convert your written notes into high-quality explainer videos.
+
+#### Structured Notes → Video
+Generate audio and video from your structured notes using AI.
+
+#### Deep Web Search
+Select any text to search the web and bring results back into your notes.
+
+#### Live Transcription
+Record lectures or meetings and get auto-generated transcripts directly in your notes.
+
+*Videos demonstrating these capabilities are available in the [Platform Abilities section](https://motionnote.com) of our landing page.*
+
+### Simplify Your Workflow
+
+#### Generate Inline Charts and Graphs
+Select any text and instantly generate contextual charts and graphs with AI.
+
+![Generate Charts](./landingpage/chart.png)
+
+#### Create Images from Text
+Transform your selected text into stunning visuals. Simply highlight any text and watch as AI creates relevant, high-quality images.
+
+![Image Generation](./landingpage/imagegen.png)
+
+#### Deep Research Assistant
+Get instant, comprehensive research on any topic. Select text and receive detailed insights, facts, and analysis.
+
+![Web Search](./landingpage/websearch.png)
+
+### AI That Writes Like a Human
+
+Customize your AI writing assistant:
+
+- **Select Model** - Choose from leading AI models like Claude, GPT-4, Gemini, or Qwen
+- **Select Human Behaviors** - Fine-tune personality, writing style, vocabulary, tone, and other human-like behaviors
+- **Choose Your Goal** - Select your role—Content Creator, Researcher, Educator, or others
+
+*See these features in action on our [landing page](https://motionnote.com).*
 
 ### Educational Videos
 
@@ -70,18 +121,7 @@ MotionNote generates comprehensive educational content including:
 - **History Lessons** - Explore historical events through engaging video content
 - **Educational Content** - Access a library of AI-generated educational videos
 
-*Explore educational videos in the MotionNote application.*
-
-### Landing Page Sections
-
-Visit our [landing page](https://motionnote.com) to see:
-
-- **Hero Section** - Beautiful interface showcasing MotionNote's capabilities
-- **Feature Cards** - Detailed breakdown of all features
-- **Platform Abilities** - See what MotionNote can do for you
-- **Human-like AI** - Experience AI that writes naturally
-- **Multi-language Support** - Use MotionNote in your preferred language
-- **Pricing Plans** - Choose the plan that fits your needs
+*Explore educational videos in the MotionNote application or visit our [landing page](https://motionnote.com).*
 
 ---
 
