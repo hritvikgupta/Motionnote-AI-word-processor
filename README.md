@@ -1,14 +1,28 @@
+<div align="center">
+
 # MotionNote
 
-**AI-powered Word Processor to Boost Your Productivity**
+**The Open Source AI-Powered Word Processor**
+
+MotionNote is the fastest and easiest way to create, edit, and enhance documents with AI assistance.
+
+[Website](https://motionnote.com) • [Documentation](./GETTING_STARTED.md) • [Features](./FEATURES.md) • [License](./LICENSE) • [Support](mailto:support@motionnote.com)
+
+</div>
+
+---
+
+## 🚀 Quick Start
+
+### Try MotionNote Live
+
+Experience MotionNote right now - no sign-up required for the demo:
+
+[**Try Live Demo →**](https://motionnote.com)
 
 ![MotionNote Demo](./motionnotedemo.png)
 
-MotionNote is an advanced, AI-powered word processor that combines the power of artificial intelligence with intuitive document editing. Built on modern web technologies, MotionNote helps you create, edit, and enhance your documents with AI assistance.
-
-## 🌟 What is MotionNote?
-
-MotionNote is a comprehensive word processing solution that leverages AI to help you write better, faster, and more efficiently. Whether you're creating academic papers, business documents, or personal notes, MotionNote provides intelligent assistance throughout your writing journey.
+---
 
 ## ✨ Key Features
 
@@ -36,34 +50,7 @@ MotionNote is a comprehensive word processing solution that leverages AI to help
 - **Data Privacy**: Your documents are secure and private
 - **Cloud Sync**: Access your documents anywhere
 
-## 🚀 Getting Started
-
-### Try MotionNote Live
-
-Experience MotionNote right now - no sign-up required for the demo:
-
-- **Live Demo**: [Try MotionNote](https://motionnote.com) (or your production URL)
-- **AI Researcher**: Chat with documents in real-time
-- **Knowledge Base**: See how we handle files
-- **Full Editor**: Experience the complete word processing capabilities
-
-### Sign Up
-
-1. Visit [MotionNote](https://motionnote.com) (or your production URL)
-2. Click "Get Started" or "Sign in"
-3. Create your account using email/password or Google OAuth
-4. Start creating your first document!
-
-## 🔗 Links
-
-### Official Links
-- **Website**: [motionnote.com](https://motionnote.com) (or your production URL)
-- **Main Repository**: [GitHub Repository](https://github.com/your-org/motionnote) (link to your main code repo)
-- **Documentation**: This repository
-
-### Support
-- **Issues**: [GitHub Issues](https://github.com/your-org/motionnote/issues)
-- **Contact**: [Contact Us](mailto:support@motionnote.com)
+---
 
 ## 🛠️ Technology Stack
 
@@ -75,18 +62,54 @@ MotionNote is built with modern web technologies:
 - **Backend**: Node.js, Supabase
 - **Styling**: Tailwind CSS
 
+---
+
+## 📖 Documentation
+
+- **[Getting Started Guide](./GETTING_STARTED.md)** - Learn how to use MotionNote
+- **[Features Documentation](./FEATURES.md)** - Complete feature list
+- **[Links & Resources](./LINKS.md)** - All MotionNote links and resources
+
+---
+
+## 🚀 Getting Started
+
+### Sign Up
+
+1. Visit [MotionNote](https://motionnote.com)
+2. Click "Get Started" or "Sign in"
+3. Create your account using email/password or Google OAuth
+4. Start creating your first document!
+
+### Your First Document
+
+1. After signing in, click "New Document"
+2. Start typing or use AI features to generate content
+3. Use **AI Researcher** to chat with your document
+4. Use **Annotate** to get AI-powered suggestions
+5. Export your document in your preferred format
+
+---
+
 ## 📄 License
 
 MotionNote is licensed under the MIT License. See [LICENSE](./LICENSE) file for details.
+
+---
 
 ## 🤝 Contributing
 
 We welcome contributions! Please see our contributing guidelines in the main repository.
 
+---
+
 ## 📞 Contact
 
 - **Email**: support@motionnote.com
 - **Website**: [motionnote.com](https://motionnote.com)
+- **Issues**: [GitHub Issues](https://github.com/your-org/motionnote/issues)
+
+---
 
 ## 🙏 Acknowledgments
 
@@ -97,5 +120,10 @@ MotionNote is built on top of excellent open-source projects including:
 
 ---
 
+<div align="center">
+
 **Made with ❤️ by the MotionNote Team**
 
+[⭐ Star us on GitHub](https://github.com/your-org/motionnote) • [📖 Documentation](./GETTING_STARTED.md) • [🐛 Report Bug](https://github.com/your-org/motionnote/issues)
+
+</div>
