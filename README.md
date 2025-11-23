@@ -2,6 +2,8 @@
 
 **AI-powered Word Processor to Boost Your Productivity**
 
+![MotionNote Demo](./motionnotedemo.png)
+
 MotionNote is an advanced, AI-powered word processor that combines the power of artificial intelligence with intuitive document editing. Built on modern web technologies, MotionNote helps you create, edit, and enhance your documents with AI assistance.
 
 ## 🌟 What is MotionNote?
@@ -52,13 +54,6 @@ Experience MotionNote right now - no sign-up required for the demo:
 3. Create your account using email/password or Google OAuth
 4. Start creating your first document!
 
-## 📚 Documentation
-
-- [Features Guide](#features)
-- [API Documentation](#api-documentation)
-- [Educational Videos](#educational-videos)
-- [Pricing](#pricing)
-
 ## 🔗 Links
 
 ### Official Links
@@ -69,27 +64,6 @@ Experience MotionNote right now - no sign-up required for the demo:
 ### Support
 - **Issues**: [GitHub Issues](https://github.com/your-org/motionnote/issues)
 - **Contact**: [Contact Us](mailto:support@motionnote.com)
-
-## 🎓 Educational Resources
-
-MotionNote offers comprehensive educational videos to help you get the most out of the platform:
-
-- **Getting Started Tutorials**
-- **Advanced Features Guide**
-- **AI Features Walkthrough**
-- **Best Practices**
-
-[View Educational Videos →](#educational-videos)
-
-## 💰 Pricing
-
-MotionNote offers flexible pricing plans to suit your needs:
-
-- **Free Tier**: Get started with basic features
-- **Pro Plans**: Unlock advanced AI features and capabilities
-- **Enterprise**: Custom solutions for teams
-
-[View Pricing →](#pricing)
 
 ## 🛠️ Technology Stack
 
